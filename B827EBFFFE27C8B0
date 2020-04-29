@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE27C8B0",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      } 
+    ],
+	"fake_gps": true,
+    "ref_latitude": 50.61789178,
+    "ref_longitude": 7.12958972,
+    "ref_altitude": 264,
+    "contact_email": "manas.pradhan@fkie.fraunhofer.de",
+    "description": "FKIE Test Gateway"
+  }
+}
